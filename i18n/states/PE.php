@@ -11,8 +11,8 @@ global $states;
 defined( 'ABSPATH' ) || exit;
 
 $states['PE'] = array(
-	'CAL' => __( 'El Callao', 'woocommerce' ),
-	'LMA' => __( 'Municipalidad Metropolitana de Lima', 'woocommerce' ),
+	'CAL' => __( 'Callao', 'woocommerce' ),
+	'LMA' => __( 'Lima Metropolitana', 'woocommerce' ),
 	'AMA' => __( 'Amazonas', 'woocommerce' ),
 	'ANC' => __( 'Ancash', 'woocommerce' ),
 	'APU' => __( 'Apur&iacute;mac', 'woocommerce' ),
@@ -26,7 +26,7 @@ $states['PE'] = array(
 	'JUN' => __( 'Jun&iacute;n', 'woocommerce' ),
 	'LAL' => __( 'La Libertad', 'woocommerce' ),
 	'LAM' => __( 'Lambayeque', 'woocommerce' ),
-	'LIM' => __( 'Lima', 'woocommerce' ),
+	'LIM' => __( 'Lima Provincias', 'woocommerce' ),
 	'LOR' => __( 'Loreto', 'woocommerce' ),
 	'MDD' => __( 'Madre de Dios', 'woocommerce' ),
 	'MOQ' => __( 'Moquegua', 'woocommerce' ),
